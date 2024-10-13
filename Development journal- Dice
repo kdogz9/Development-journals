@@ -1,0 +1,49 @@
+
+# RPG - Dice task
+
+<br>Keisha Byrne</br>
+2401317
+<br>Fundamentals Of Games Development</br>
+
+# Research
+
+### What research did you do?
+I wanted to find a way to implement the random number generator in a game that fits my interests more than an RPG styled game. So in order to do this I thought of wyas I could use a random number generator in a farming simulator. In this game I would like to have a rnadom number generator for the amount of crops the player will get in each yield. I would also like the player to have to roll a dice to see how much attack they can deal an enemy. 
+
+With these ideas in mind, I started to search up the code "random.range" to be able to grasp more of an understanding on how that code works so that I could then apply that to my project. I used a mixture of unitys manual and chatgpt to help me on this. 
+
+My game idea for this project is heavily influenced by Stardew Valley so I also took the time to research the game in detail to be able to keep some aspects of the game in my project but also trying to keep it unique and personal to me. For example, there are mines in stardew valley where the player has to fight enemies. In my project I wanted to have a mine aspect too but the player must roll a dice to see how much damage they do to enemy. This adds a dnd feel to the game and makes it more personal to me. 
+### Links / resources I used to help me 
+<br>https://docs.unity3d.com/ScriptReference/Random.Range.html</br>
+<br>https://chatgpt.com/c/670bd0ad-5bf8-8000-8094-7b312a53719f </br>
+<br>https://www.stardewvalley.net/</br>
+
+### How did it help?
+Unitys manual helped me undertsnad this line of code because it include code snippets and highlights the key terms being used so I undertsood it clearer. However, I preferred using ChatGPT as it broke it down a lot more whilst also including code snippets. I could also ask for it to be simplified even more and summarised. 
+
+# How Did I Make It?
+
+I made this project by simply writing out the code for all three dice and I ran it to make sure that it worked. The code meant that all three dice were rolled at the same time and I wanted to change that to fit more in with my project. I done this by 
+
+
+# Outcome (The Final Product)
+
+Leave links
+
+Leave images
+
+etc
+
+# Reflection
+
+How did it go?
+
+What would you do differently?
+
+# Bibliography
+
+Stuff that you used to help you
+
+# Declared Assets
+
+Stuff you didn't make
