@@ -8,7 +8,7 @@
 # Research
 
 ### What research did you do?
-I wanted to find a way to implement the random number generator in a game that fits my interests more than an RPG styled game. So in order to do this I thought of wyas I could use a random number generator in a farming simulator. In this game I would like to have a rnadom number generator for the amount of crops the player will get in each yield. I would also like the player to have to roll a dice to see how much attack they can deal an enemy. 
+I wanted the player to have to roll a dice to see how much attack they can deal an enemy. The score they recieve from their roll would be added onto their already existing attack.  
 
 With these ideas in mind, I started to search up the code "random.range" to be able to grasp more of an understanding on how that code works so that I could then apply that to my project. I used a mixture of unitys manual and chatgpt to help me on this. 
 
@@ -19,20 +19,34 @@ My game idea for this project is heavily influenced by Stardew Valley so I also 
 <br>https://www.stardewvalley.net/</br>
 
 ### How did it help?
-Unitys manual helped me undertsnad this line of code because it include code snippets and highlights the key terms being used so I undertsood it clearer. However, I preferred using ChatGPT as it broke it down a lot more whilst also including code snippets. I could also ask for it to be simplified even more and summarised. 
+Unitys manual helped me understand this line of code because it included code snippets and highlights the key terms being used so I understood it clearer. However, I preferred using ChatGPT as it broke it down a lot more whilst also including code snippets. I could also ask for it to be simplified even more and summarised. 
 
 # How Did I Make It?
 
-I made this project by simply writing out the code for all three dice and I ran it to make sure that it worked. The code meant that all three dice were rolled at the same time and I wanted to change that to fit more in with my project. I done this by 
+I made this project by simply writing out the code for all three dice and I ran it to make sure that it worked. The code meant that all three dice were rolled at the same time and I wanted to change that to fit more in with my project. I done this by seperating the dice code into three individual sections. I then referenced that specific code on the dice in the game so that it would only use D20 as that fits in with my game idea. 
 
 
 # Outcome (The Final Product)
+<img src="image (1).png">
+<br>
+This code snippet shows how I organised all of the dice code in Unity so I would be able to reference them individually when needed. This code translates to when the dice is rolled it will return a number between a range of 0-20 using the random range code. When the number is randomly changed the debug log will show a message saying that the dice has been rolled and it will include the result it has given. The line underneath it will then return that number for my project to be able to use it for the players attack. 
+</br>
 
-Leave links
+<img src="unnamed.png">
+<br>
+In this code snippet, it shows how the player uses the dice to be able to add the result on their attack and it then shows that number as the final result of the dice being rolled. This is used in the battle element of my game so i named this GetDamage to show that the enemy will be getting this result as damage. 
+</br>
 
-Leave images
+<img src="image.png">
+<br>
+In this snippet, it shows how I referenced the enemy battle script. I used this script as a reference instead of the dice as it makes sure that the result adds on to the players attack rather than just rolling a dice and getting a number. I made the dice code into a button and changed that to look like a 2d dice as it fitted in more with the style of game i want to do and i feel like its more user intutive. 
+</br>
 
-etc
+<img src="unnamed (1).png">
+<br>
+This snippet shows the code working when the user rolls the dice. 
+</br>
+
 
 # Reflection
 
