@@ -50,14 +50,23 @@ This snippet shows the code working when the user rolls the dice.
 
 # Reflection
 
-How did it go?
+This project went well towards the end. I struggled to understand the code at first so I had to break down the code a lot more to be able to understand what each line was doing in the dice script. This seemed to help me a lot more and I also looked at documentation which explained each line of code as well. 
 
-What would you do differently?
+I struggled to start the project but once I saw how simple it was I managed to get stuck into it. There were a lot of errors during this code as I added extra things into my game to make it more personal but these taught me a lot during this project. 
+
+If I was to do this again, I would break down everything I need to do for the project into smaller steps so that it would prevent me from procrastinating and feeling overwhelmed. I also now know what type of documentation is useful to me so I can use this type of documentation for my future projects which should help them run a bit more smoothly. 
 
 # Bibliography
 
-Stuff that you used to help you
+<br>https://docs.unity3d.com/ScriptReference/Random.Range.html</br>
+<br>https://chatgpt.com/c/670bd0ad-5bf8-8000-8094-7b312a53719f </br>
+<br>https://www.stardewvalley.net/</br>
 
 # Declared Assets
 
-Stuff you didn't make
+https://www.freepik.com/free-vector/pixel-art-mystical-background_29019077.htm 
+
+<br> The only asset I didnt make was the background since that would have been too time consuming but I did make the player, the enemy and the dice myself using a pixel art app. </br>
+
+<img src="player.png"> 
+<img src="pink enemy no background.png">
