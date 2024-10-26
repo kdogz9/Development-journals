@@ -1,5 +1,5 @@
 
-# RPG - Dice task
+# RPG - Potion Escape
 
 <br>Keisha Byrne</br>
 2401317
@@ -8,11 +8,20 @@
 # Research
 
 ### What research did you do?
+
+## Dice 
 I wanted the player to have to roll a dice to see how much attack they can deal an enemy. The score they recieve from their roll would be added onto their already existing attack.  
 
 With these ideas in mind, I started to search up the code "random.range" to be able to grasp more of an understanding on how that code works so that I could then apply that to my project. I used a mixture of unitys manual and chatgpt to help me on this. 
 
-My game idea for this project is heavily influenced by Stardew Valley so I also took the time to research the game in detail to be able to keep some aspects of the game in my project but also trying to keep it unique and personal to me. For example, there are mines in stardew valley where the player has to fight enemies. In my project I wanted to have a mine aspect too but the player must roll a dice to see how much damage they do to enemy. This adds a dnd feel to the game and makes it more personal to me. 
+My game idea for this project is heavily influenced by Stardew Valley so I also took the time to research the game in detail to be able to keep some aspects of the game in my project but also trying to keep it unique and personal to me. For example, there are mines in stardew valley where the player has to fight enemies. In my project I wanted to have a mine aspect too where enemies are found to fight but the player must roll a dice to see how much damage they do to enemy. This adds a dnd feel to the game and makes it more personal to me. 
+
+## Battle system 
+
+When thinking of what enemy I wanted for my game, I searched up 2d pixel art enemies and came across these slimes. I took some inspiration from these by keeping the enemy the same size but I wanted my enemy to represent a potion inside of a magic bottle. This kept it on the same theme of the witchy, magic battle scene. 
+
+## Game loop 
+My game loop is kept simple as I prefer a more casual style type of game so keeping it simple makes it fit this more. The game loop is to kill the enemy by rolling the dice. The player and the enemy go up against eachother and its a battle to see who will win. If the player wins then the game restarts and it says on the screen. I wanted the player to be able to see the damage being done to both the player and enemy as well.
 ### Links / resources I used to help me 
 <br>https://docs.unity3d.com/ScriptReference/Random.Range.html</br>
 <br>https://chatgpt.com/c/670bd0ad-5bf8-8000-8094-7b312a53719f </br>
@@ -23,10 +32,15 @@ Unitys manual helped me understand this line of code because it included code sn
 
 # How Did I Make It?
 
+### Dice
 I made this project by simply writing out the code for all three dice and I ran it to make sure that it worked. The code meant that all three dice were rolled at the same time and I wanted to change that to fit more in with my project. I done this by seperating the dice code into three individual sections. I then referenced that specific code on the dice in the game so that it would only use D20 as that fits in with my game idea. 
 
+### Battle system / game loop
+I made a health bar for both the enemy and the player so the player can see the damage being done each time, along with the damage coming up on the screen when the dice is rolled each time. I made the enemys health 20 and the players health 100 so that there would be a higher chance of the player winning. I also changed the colour of the health bar for the enemy so the player can understand its linked to the enemy and not just a random health bar. I placed the players health bar above the name section and I placed the enemys health bar above its head. I also made it so that if the players health is below 0 then the death text comes up on the screen and the game ends. 
 
 # Outcome (The Final Product)
+
+## Dice 
 <img src="image (1).png">
 <br>
 This code snippet shows how I organised all of the dice code in Unity so I would be able to reference them individually when needed. This code translates to when the dice is rolled it will return a number between a range of 0-20 using the random range code. When the number is randomly changed the debug log will show a message saying that the dice has been rolled and it will include the result it has given. The line underneath it will then return that number for my project to be able to use it for the players attack. 
@@ -45,6 +59,38 @@ In this snippet, it shows how I referenced the enemy battle script. I used this 
 <img src="unnamed (1).png">
 <br>
 This snippet shows the code working when the user rolls the dice. 
+</br> 
+
+## Battle system / game loop 
+
+<img src="health.png">
+
+<br>
+In this snippet, it shows the code for the health bar and how much its equal to. Then underneath it shows the code for when the player takes damage from the enemy and the debug logs explaining the damage taken and the health amount left. 
+
+</br>
+
+<img src="health bar.png">
+
+<br>
+In this snippet, it shows the code for what happens when the players health is less than 0, which in this case causes the player to die. The line after codes for the game restarting if the player dies and if the player doesnt die then the words you win come up on the debug log. 
+
+</br>
+
+<img src="damage.png "> 
+<img src="num.png">
+
+<br>
+These snippets show the health bars in my project and them working during the game. It also shows the damage being done on the screen above the player and the enemy. I used the same script for these and I copied the text and renamed them so that it was easier to understand what damage was linked to either the player or the enemy. The code snippet shows the code I used to make the damage appear on the screen of the game. 
+
+</br>
+
+<img src="start.png">
+<img src="fight.png">
+
+<br>
+This code snippet shows the starting text when the game is first played. At the top of the screen it says Lets fight which I felt was a cute touch to the game and then the code underneath it is referencing the enemy and the player causing eachother damage. 
+
 </br>
 
 
