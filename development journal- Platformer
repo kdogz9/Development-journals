@@ -1,0 +1,60 @@
+# Development-journals
+Simplified template 
+
+# Platformer
+
+<br>Keisha Byrne </br>
+<br>2401317</br>
+<br>Fundamentals Of Games Development</br>
+
+# Research
+<br>For this game, I wanted to add my own twist onto the prompts that were already given to us. I knew I wanted to make it more fun and personal to me so that I would enjoy the process a lot more when making the game. I decided on making a game where you play as a lizard and collect eggs whilst going around the world and trying to svoid the obstacles which are trying to kill you. In order for this game to come alive I had to do a lot of research into more complicated scripts/code.</br>
+
+### What research did you do and how did it help? 
+<br> I wanted to add a slight delay to when the player dies and the level restarts back to the beginning. For this to happen I had to research coroutines and I done this by referring to unitys help guide online and also using ChatGPT to create the code needed and explain it in smaller chunks for me. I now have a greater understanding of co routines which I can now apply to my other game projects in the furture. I also researched a youtube video on how to create a main menu scene and to exit the game so that it is easy for users to navigate around my game. I feel like it adds an extra level to my game and polishes it. It was quite simple to follow through and I can now apply this to my future projects as well. I also researched how to make text appear when the player dies, saying you have died and when they hit the check point there is text that appears which says you have won and the scene restarts to the begining.</br>
+
+### Links 
+https://docs.unity3d.com/ScriptReference/WaitForSeconds.html
+https://chatgpt.com/c/671cfb80-586c-8000-a516-cbe9180e86d8 (Co routine, text appearing)
+https://www.youtube.com/watch?v=DX7HyN7oJjE&t=188s (main menu tutorial)
+
+
+
+# How Did I Make It?
+
+I did this
+
+I did that
+
+# Outcome (The Final Product)
+
+Leave links
+
+Leave images
+
+etc
+
+Reflection
+
+How did it go?
+
+What would you do differently?
+
+# Bibliography
+
+https://www.youtube.com/watch?v=DX7HyN7oJjE&t=188s 
+https://docs.unity3d.com/ScriptReference/WaitForSeconds.html 
+https://chatgpt.com/c/671cfb80-586c-8000-a516-cbe9180e86d8 
+
+# Declared Assets 
+### Audios 
+https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943 (noise effect)
+
+https://assetstore.unity.com/packages/audio/sound-fx/8-bits-elements-16848   (background music)
+
+### Props 
+https://assetstore.unity.com/packages/3d/props/food/3d-props-adorable-foods-31249 (egg) 
+
+https://assetstore.unity.com/packages/3d/environments/poly-style-platformer-starter-pack-284167 (world)
+
+https://assetstore.unity.com/packages/3d/characters/animals/quirky-series-free-animals-pack-178235 (lizard)
