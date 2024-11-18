@@ -65,8 +65,12 @@ This snippet shows the code working when the user rolls the dice.
 
 <img src="health.png">
 
+```csharp
+
+```
+
 <br>
-In this snippet, it shows the code for the health bar and how much its equal to. Then underneath it shows the code for when the player takes damage from the enemy and the debug logs explaining the damage taken and the health amount left. 
+In this snippet, it shows the code for the health bar and how much its equal to. Then underneath it shows the code for when the player takes damage from the enemy and the debug logs explaining the damage taken and the health amount left.
 
 </br>
 
