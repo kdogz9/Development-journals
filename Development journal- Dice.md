@@ -191,6 +191,8 @@ This code snippet shows the starting text when the game is first played. At the 
 
 </br>
 
+[Git Repository](https://github.com/kdogz9/RPG-Project)
+
 
 # Reflection
 
@@ -214,3 +216,7 @@ https://www.freepik.com/free-vector/pixel-art-mystical-background_29019077.htm
 
 <img src="player.png"> 
 <img src="pink enemy no background.png">
+
+https://youtu.be/4RKrzFUSyAc 
+
+[Itch.io] (https://starcreations.itch.io/potion-escape)
