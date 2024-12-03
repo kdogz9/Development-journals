@@ -13,12 +13,6 @@ Simplified template
 ### What research did you do and how did it help? 
 <br> I wanted to add a slight delay to when the player dies and the level restarts back to the beginning. For this to happen I had to research coroutines and I done this by referring to unitys help guide online and also using ChatGPT to create the code needed and explain it in smaller chunks for me. I now have a greater understanding of co routines which I can now apply to my other game projects in the furture. I also researched a youtube video on how to create a main menu scene and to exit the game so that it is easy for users to navigate around my game. I feel like it adds an extra level to my game and polishes it. It was quite simple to follow through and I can now apply this to my future projects as well. I also researched how to make text appear when the player dies, saying you have died and when they hit the check point there is text that appears which says you have won and the scene restarts to the begining.</br>
 
-### Links 
-https://docs.unity3d.com/ScriptReference/WaitForSeconds.html
-https://chatgpt.com/c/671cfb80-586c-8000-a516-cbe9180e86d8 (Co routine, text appearing)
-https://www.youtube.com/watch?v=DX7HyN7oJjE&t=188s (main menu tutorial)
-
-
 
 # How Did I Make It?
 
@@ -309,19 +303,48 @@ In my opinion, I feel like this project went a lot better than the first one. I 
 
 # Bibliography
 
-https://www.youtube.com/watch?v=DX7HyN7oJjE&t=188s 
-https://docs.unity3d.com/ScriptReference/WaitForSeconds.html 
-https://chatgpt.com/c/671cfb80-586c-8000-a516-cbe9180e86d8 
+www.youtube.com. (n.d.). Make Your MAIN MENU Quickly! | Unity UI Tutorial For Beginners. [online] Available at: https://www.youtube.com/watch?v=DX7HyN7oJjE [Accessed 5 Jul. 2023].
+
+‌
+Technologies, U. (n.d.). Unity - Scripting API: WaitForSeconds. [online] docs.unity3d.com. Available at: https://docs.unity3d.com/ScriptReference/WaitForSeconds.html.
+
+‌ 
+
+
+
+
+
 
 # Declared Assets 
-### Audios 
-https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943 (noise effect)
+## Audios 
 
-https://assetstore.unity.com/packages/audio/sound-fx/8-bits-elements-16848   (background music)
+### Noise Effect
+assetstore.unity.com. (n.d.). Casual Game BGM #5 | Audio Music | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943.
 
-### Props 
-https://assetstore.unity.com/packages/3d/props/food/3d-props-adorable-foods-31249 (egg) 
+### Background Music
 
-https://assetstore.unity.com/packages/3d/environments/poly-style-platformer-starter-pack-284167 (world)
+@UnityAssetStore. (2016). 8 Bits Elements. [online] Available at: https://assetstore.unity.com/packages/audio/sound-fx/8-bits-elements-16848 [Accessed 3 Dec. 2024].
 
-https://assetstore.unity.com/packages/3d/characters/animals/quirky-series-free-animals-pack-178235 (lizard)
+   
+
+## Props 
+
+### Egg
+assetstore.unity.com. (n.d.). 3D Props - Adorable Foods | 3D Food | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/3d/props/food/3d-props-adorable-foods-31249.
+
+### World
+
+@UnityAssetStore. (2024). POLY STYLE - Platformer Starter Pack. [online] Available at: https://assetstore.unity.com/packages/3d/environments/poly-style-platformer-starter-pack-284167 [Accessed 3 Dec. 2024].
+
+### Lizzard
+
+assetstore.unity.com. (n.d.). Quirky Series - FREE Animals Pack | 3D Animals | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/3d/characters/animals/quirky-series-free-animals-pack-178235.
+
+‌
+
+The Following assets/scripts were created or modified with the use of ChatGPT 4o:
+
+- Obstacle.cs
+- Hammer.cs
+- Leftorright.cs
+- Forward.cs
