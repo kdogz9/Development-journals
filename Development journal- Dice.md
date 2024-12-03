@@ -22,10 +22,6 @@ When thinking of what enemy I wanted for my game, I searched up 2d pixel art ene
 
 ## Game loop 
 My game loop is kept simple as I prefer a more casual style type of game so keeping it simple makes it fit this more. The game loop is to kill the enemy by rolling the dice. The player and the enemy go up against eachother and its a battle to see who will win. If the player wins then the game restarts and it says on the screen. I wanted the player to be able to see the damage being done to both the player and enemy as well.
-### Links / resources I used to help me 
-<br>https://docs.unity3d.com/ScriptReference/Random.Range.html</br>
-<br>https://chatgpt.com/c/670bd0ad-5bf8-8000-8094-7b312a53719f </br>
-<br>https://www.stardewvalley.net/</br>
 
 ### How did it help?
 Unitys manual helped me understand this line of code because it included code snippets and highlights the key terms being used so I understood it clearer. However, I preferred using ChatGPT as it broke it down a lot more whilst also including code snippets. I could also ask for it to be simplified even more and summarised. 
@@ -204,13 +200,15 @@ If I was to do this again, I would break down everything I need to do for the pr
 
 # Bibliography
 
-<br>https://docs.unity3d.com/ScriptReference/Random.Range.html</br>
-<br>https://chatgpt.com/c/670bd0ad-5bf8-8000-8094-7b312a53719f </br>
-<br>https://www.stardewvalley.net/</br>
+<br>Technologies, U. (n.d.). Unity - Scripting API: Random.Range. [online] docs.unity3d.com. Available at: https://docs.unity3d.com/ScriptReference/Random.Range.html.</br>
+
+<br>ConcernedApe (2016). Stardew Valley. [online] Stardewvalley.net. Available at: https://www.stardewvalley.net/.</br>
 
 # Declared Assets
 
-https://www.freepik.com/free-vector/pixel-art-mystical-background_29019077.htm 
+Freepik. (2022). Free Vector | Pixel art mystical background. [online] Available at: https://www.freepik.com/free-vector/pixel-art-mystical-background_29019077.htm [Accessed 3 Dec. 2024].
+
+‌
 
 <br> The only asset I didnt make was the background since that would have been too time consuming but I did make the player, the enemy and the dice myself using a pixel art app. </br>
 
@@ -220,3 +218,9 @@ https://www.freepik.com/free-vector/pixel-art-mystical-background_29019077.htm
 https://youtu.be/4RKrzFUSyAc 
 
 [Itch.io] (https://starcreations.itch.io/potion-escape)
+
+
+
+The Following assets/scripts were created or modified with the use of ChatGPT 4o:
+
+- HealthManager.cs
