@@ -11,7 +11,7 @@ Simplified template
 <br>For this game, I wanted to add my own twist onto the prompts that were already given to us. I knew I wanted to make it more fun and personal to me so that I would enjoy the process a lot more when making the game. I decided on making a game where you play as a lizard and collect eggs whilst going around the world and trying to svoid the obstacles which are trying to kill you. In order for this game to come alive I had to do a lot of research into more complicated scripts/code.</br>
 
 ### What research did you do and how did it help? 
-<br> I wanted to add a slight delay to when the player dies and the level restarts back to the beginning. For this to happen I had to research coroutines and I done this by referring to unitys help guide online and also using ChatGPT to create the code needed and explain it in smaller chunks for me. I now have a greater understanding of co routines which I can now apply to my other game projects in the furture. I also researched a youtube video on how to create a main menu scene and to exit the game so that it is easy for users to navigate around my game. I feel like it adds an extra level to my game and polishes it. It was quite simple to follow through and I can now apply this to my future projects as well. I also researched how to make text appear when the player dies, saying you have died and when they hit the check point there is text that appears which says you have won and the scene restarts to the begining.</br>
+<br> I wanted to add a slight delay to when the player dies and the level restarts back to the beginning. For this to happen I had to research coroutines and I done this by referring to unitys help guide online () and also using ChatGPT to create the code needed and explain it in smaller chunks for me. I now have a greater understanding of co routines which I can now apply to my other game projects in the furture. I also researched a youtube video on how to create a main menu scene and to exit the game so that it is easy for users to navigate around my game. I feel like it adds an extra level to my game and polishes it. It was quite simple to follow through and I can now apply this to my future projects as well. I also researched how to make text appear when the player dies, saying you have died and when they hit the check point there is text that appears which says you have won and the scene restarts to the begining.</br>
 
 
 # How Did I Make It?
@@ -295,6 +295,15 @@ void Start() {
 }
 ``` 
 This is a code snippet for the score system when an egg is collected and the audio snippet is being played. 
+
+## videos
+https://youtu.be/5_4XaxBIltw  - part 1
+
+https://youtu.be/6rcPDwI0GOY  - part 2 
+
+## Github repository
+
+https://github.com/kdogz9/Platformer 
 
 # Reflection
 
