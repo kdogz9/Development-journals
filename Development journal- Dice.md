@@ -12,9 +12,9 @@
 ## Dice 
 I wanted the player to have to roll a dice to see how much attack they can deal an enemy. The score they recieve from their roll would be added onto their already existing attack.  
 
-With these ideas in mind, I started to search up the code "random.range" to be able to grasp more of an understanding on how that code works so that I could then apply that to my project. I used a mixture of unitys manual and chatgpt to help me on this. 
+With these ideas in mind, I started to search up the code "random.range" (Technologies, n.d.) to be able to grasp more of an understanding on how that code works so that I could then apply that to my project. I used a mixture of unitys manual (Technologies, n.d.) and chatgpt to help me on this. 
 
-My game idea for this project is heavily influenced by Stardew Valley so I also took the time to research the game in detail to be able to keep some aspects of the game in my project but also trying to keep it unique and personal to me. For example, there are mines in stardew valley where the player has to fight enemies. In my project I wanted to have a mine aspect too where enemies are found to fight but the player must roll a dice to see how much damage they do to enemy. This adds a dnd feel to the game and makes it more personal to me. 
+My game idea for this project is heavily influenced by Stardew Valley (Stardewvalley.net, 2016) so I also took the time to research the game in detail to be able to keep some aspects of the game in my project but also trying to keep it unique and personal to me. For example, there are mines in stardew valley where the player has to fight enemies. In my project I wanted to have a mine aspect too where enemies are found to fight but the player must roll a dice to see how much damage they do to enemy. This adds a dnd feel to the game and makes it more personal to me. 
 
 ## Battle system 
 
@@ -24,7 +24,7 @@ When thinking of what enemy I wanted for my game, I searched up 2d pixel art ene
 My game loop is kept simple as I prefer a more casual style type of game so keeping it simple makes it fit this more. The game loop is to kill the enemy by rolling the dice. The player and the enemy go up against eachother and its a battle to see who will win. If the player wins then the game restarts and it says on the screen. I wanted the player to be able to see the damage being done to both the player and enemy as well.
 
 ### How did it help?
-Unitys manual helped me understand this line of code because it included code snippets and highlights the key terms being used so I understood it clearer. However, I preferred using ChatGPT as it broke it down a lot more whilst also including code snippets. I could also ask for it to be simplified even more and summarised. 
+Unitys manual (Technologies, n.d.) helped me understand this line of code because it included code snippets and highlights the key terms being used so I understood it clearer. However, I preferred using ChatGPT as it broke it down a lot more whilst also including code snippets. I could also ask for it to be simplified even more and summarised. 
 
 # How Did I Make It?
 
