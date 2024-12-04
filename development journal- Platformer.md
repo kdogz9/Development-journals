@@ -8,16 +8,16 @@ Simplified template
 <br>Fundamentals Of Games Development</br>
 
 # Research
-<br>For this game, I wanted to add my own twist onto the prompts that were already given to us. I knew I wanted to make it more fun and personal to me so that I would enjoy the process a lot more when making the game. I decided on making a game where you play as a lizard and collect eggs whilst going around the world and trying to svoid the obstacles which are trying to kill you. In order for this game to come alive I had to do a lot of research into more complicated scripts/code.</br>
+<br>For this game, I wanted to add my own twist onto the prompts that were already given to us. I knew I wanted to make it more fun and personal to me so that I would enjoy the process a lot more when making the game. I decided on making a game where you play as a lizard and collect eggs whilst going around the world and trying to avoid the obstacles which are trying to kill you. In order for this game to come alive I had to do a lot of research into more complicated scripts/code.</br>
 
 ### What research did you do and how did it help? 
-<br> I wanted to add a slight delay to when the player dies and the level restarts back to the beginning. For this to happen I had to research coroutines and I done this by referring to unitys help guide online () and also using ChatGPT to create the code needed and explain it in smaller chunks for me. I now have a greater understanding of co routines which I can now apply to my other game projects in the furture. I also researched a youtube video on how to create a main menu scene and to exit the game so that it is easy for users to navigate around my game. I feel like it adds an extra level to my game and polishes it. It was quite simple to follow through and I can now apply this to my future projects as well. I also researched how to make text appear when the player dies, saying you have died and when they hit the check point there is text that appears which says you have won and the scene restarts to the begining.</br>
+<br> I wanted to add a slight delay to when the player dies and the level restarts back to the beginning. For this to happen I had to research coroutines and I done this by referring to unitys help guide online (Technologies, n.d.) and also using ChatGPT to create the code needed and explain it in smaller chunks for me. I now have a greater understanding of co routines which I can now apply to my other game projects in the furture. I also researched a youtube video on how to create a main menu scene(www.youtube.com, n.d.) and to exit the game so that it is easy for users to navigate around my game. I feel like it adds an extra level to my game and polishes it. It was quite simple to follow through and I can now apply this to my future projects as well. </br>
 
 
 # How Did I Make It?
 
 ## Assets
-<br>To make this game come to life after I had done some research I started with implementing assets which I found on unity. I wated to start with the assets as I felt like that if I found them it would help give me an idea of where I wanted this game to go. I imported these assets and then I placed them into my world. Once I had the assets in I then knew what scripts I needed to make in order to make the props work in the world. </br>
+<br>To make this game come to life after I had done some research I started with implementing assets which I found on unity.(@UnityAssetStore, 2024). I wated to start with the assets as I felt like that if I found them it would help give me an idea of where I wanted this game to go. I imported these assets and then I placed them into my world. Once I had the assets in I then knew what scripts I needed to make in order to make the props work in the world. </br>
 
 ## Spikes and moving platforms
 <br>I made a script which makes the spiky balls move left or right and forward in correlation to how they are positioned in the world. I had to make two seperate scripts because some spikes were placed differently so the script didnt work correctlty. I also attached a collider to them and the death script to them so that it killed the player when they touched it. I also attached this script to a platform to make it move and to make the blades spin whislt also moving left to right later on in the game.This script was also used on the objects at the end to make them connect together as they are broken blocks which open and close.  </br>
@@ -303,7 +303,11 @@ https://youtu.be/6rcPDwI0GOY  - part 2
 
 ## Github repository
 
-https://github.com/kdogz9/Platformer 
+https://github.com/kdogz9/Platformer  
+
+## Itch
+
+https://starcreations.itch.io/lizard-eggsplore
 
 # Reflection
 
@@ -312,23 +316,16 @@ In my opinion, I feel like this project went a lot better than the first one. I 
 
 # Bibliography
 
-www.youtube.com. (n.d.). Make Your MAIN MENU Quickly! | Unity UI Tutorial For Beginners. [online] Available at: https://www.youtube.com/watch?v=DX7HyN7oJjE [Accessed ].
+www.youtube.com. (n.d.). Make Your MAIN MENU Quickly! | Unity UI Tutorial For Beginners. [online] Available at: https://www.youtube.com/watch?v=DX7HyN7oJjE [Accessed 3/11/24 ].
 
 ‌
-Technologies, U. (n.d.). Unity - Scripting API: WaitForSeconds. [online] docs.unity3d.com. Available at: https://docs.unity3d.com/ScriptReference/WaitForSeconds.html.
-
-‌ 
-
-
-
-
-
+Technologies, U. (n.d.). Unity - Scripting API: WaitForSeconds. [online] docs.unity3d.com. Available at: https://docs.unity3d.com/ScriptReference/WaitForSeconds.html.[Accessed 5/11/24 ] 
 
 # Declared Assets 
 ## Audios 
 
 ### Noise Effect
-assetstore.unity.com. (n.d.). Casual Game BGM #5 | Audio Music | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943.
+assetstore.unity.com. (n.d.). Casual Game BGM #5 | Audio Music | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943.(Accessed 30/10/24)
 
 ### Background Music
 
@@ -339,7 +336,7 @@ assetstore.unity.com. (n.d.). Casual Game BGM #5 | Audio Music | Unity Asset Sto
 ## Props 
 
 ### Egg
-assetstore.unity.com. (n.d.). 3D Props - Adorable Foods | 3D Food | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/3d/props/food/3d-props-adorable-foods-31249.
+assetstore.unity.com. (n.d.). 3D Props - Adorable Foods | 3D Food | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/3d/props/food/3d-props-adorable-foods-31249. (Accessed 28/10/24)
 
 ### World
 
@@ -347,7 +344,7 @@ assetstore.unity.com. (n.d.). 3D Props - Adorable Foods | 3D Food | Unity Asset 
 
 ### Lizzard
 
-assetstore.unity.com. (n.d.). Quirky Series - FREE Animals Pack | 3D Animals | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/3d/characters/animals/quirky-series-free-animals-pack-178235.
+assetstore.unity.com. (n.d.). Quirky Series - FREE Animals Pack | 3D Animals | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/3d/characters/animals/quirky-series-free-animals-pack-178235. (Accessed 28/10/24)
 
 ‌
 
