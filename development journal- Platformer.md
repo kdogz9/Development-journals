@@ -312,7 +312,7 @@ In my opinion, I feel like this project went a lot better than the first one. I 
 
 # Bibliography
 
-www.youtube.com. (n.d.). Make Your MAIN MENU Quickly! | Unity UI Tutorial For Beginners. [online] Available at: https://www.youtube.com/watch?v=DX7HyN7oJjE [Accessed 5 Jul. 2023].
+www.youtube.com. (n.d.). Make Your MAIN MENU Quickly! | Unity UI Tutorial For Beginners. [online] Available at: https://www.youtube.com/watch?v=DX7HyN7oJjE [Accessed ].
 
 ‌
 Technologies, U. (n.d.). Unity - Scripting API: WaitForSeconds. [online] docs.unity3d.com. Available at: https://docs.unity3d.com/ScriptReference/WaitForSeconds.html.

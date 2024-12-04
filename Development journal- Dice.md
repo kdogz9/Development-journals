@@ -200,9 +200,9 @@ If I was to do this again, I would break down everything I need to do for the pr
 
 # Bibliography
 
-<br>Technologies, U. (n.d.). Unity - Scripting API: Random.Range. [online] docs.unity3d.com. Available at: https://docs.unity3d.com/ScriptReference/Random.Range.html.</br>
+<br>Technologies, U. (n.d.). Unity - Scripting API: Random.Range. [online] docs.unity3d.com. Available at: https://docs.unity3d.com/ScriptReference/Random.Range.html. (Accessed 21/10/24) </br>
 
-<br>ConcernedApe (2016). Stardew Valley. [online] Stardewvalley.net. Available at: https://www.stardewvalley.net/.</br>
+<br>ConcernedApe (2016). Stardew Valley. [online] Stardewvalley.net. Available at: https://www.stardewvalley.net/. (Accessed 21/10/24)</br>
 
 # Declared Assets
 
